@@ -2,12 +2,18 @@
 
 Just fooling around with a new language. No need to follow.
 
+Eventually this should be a web service, running 
+in a Docker container, orchestrated by docker-compose.
+That's always my first target :smiley:
+
 ## What I did (2021-03-23)
 
 I've tried this on an Apple M1:
 
 * `brew install vlang` (0.2.2 46cdf4f)
 * Installing "V 0.1.7" plugin for Visual Studio Code
+* Try Vex framework, abort because of errors
+* Try builtin `vweb` framework, works 
 
 ## Preliminary verdict
 
